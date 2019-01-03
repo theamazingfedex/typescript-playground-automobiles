@@ -1,0 +1,8 @@
+const FuelTypes = {
+  GASOLINE: 'FUEL_TYPE_GASOLINE',
+  DIESEL: 'FUEL_TYPE_DIESEL',
+  E85: 'FUEL_TYPE_E85',
+  ELECTRIC: 'FUEL_TYPE_ELECTRIC'
+};
+
+export default FuelTypes;
